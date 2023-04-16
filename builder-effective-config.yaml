@@ -1,0 +1,11 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.aitsunlive.com
+productName: Aitsun ERP
+win:
+  icon: public/app_icon_big.png
+mac:
+  category: com.app.category.aitsun
+files: []
+electronVersion: 22.0.0

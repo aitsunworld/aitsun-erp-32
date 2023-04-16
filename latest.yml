@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: Aitsun-ERP-Setup-1.0.0.exe
+    sha512: clJB97P5hHf1Qg9Zcu1R4/6yhOMcBssnKIybD8raeqJbdSLCQLsusyVnFdc7ODHJzmRLKNnDn/Dg2imhZlNpbw==
+    size: 66899592
+path: Aitsun-ERP-Setup-1.0.0.exe
+sha512: clJB97P5hHf1Qg9Zcu1R4/6yhOMcBssnKIybD8raeqJbdSLCQLsusyVnFdc7ODHJzmRLKNnDn/Dg2imhZlNpbw==
+releaseDate: '2023-04-16T04:25:52.811Z'
